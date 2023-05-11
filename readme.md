@@ -16,7 +16,7 @@
 
 **Attention:**`webvpn-hacker` can choose `recursive scanning`, `crawler scanning` and other modes. **Before using it, please write the `cookie` of the enterprise into the header field in `config/config.py`.**
 
-**Step1:**Modify the parameters in `config/config.py` and `config/config.ini`.
+**Step1:** Modify the parameters in `config/config.py` and `config/config.ini`.
 
 **Step2:**`python main.py`. As shown below:
 
